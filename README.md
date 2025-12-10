@@ -1,187 +1,78 @@
-```
-> init_sequence.sh
-> Loading modules...
-> Homelab... [OK]
-> Networking... [OK]
-> Photography... [OK]
-> Content Creation... [OK]
-> Cybersecurity... [in progress]
-> _
-```
 <div align="center">
-# **ZakPT** | The Digital Workshop
-### `Building the future, one packet at a time.`
-[![Website](https://img.shields.io/badge/🌐_Website-nettechzak.github.io-00d9ff?style=for-the-badge)](https://nettechzak.github.io/ZakPT_Website/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NettechZak)
-![Profile Views](https://komarev.com/ghpvc/?username=NettechZak&color=00d9ff&style=for-the-badge)
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="250px" style="object-fit:cover; border-radius: 10px;" />
+  
+  <br/>
+  <br/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&amp;weight=600&amp;size=35&amp;duration=3000&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=System.init(%22PLAYER_READY%22)%3B;Building+The+Future;One+Packet+At+A+Time;Homelab+Enthusiast;Content+Creator" alt="Typing SVG" /></a>
 </div>
----
-## `$ whoami`
-```bash
-zakpt@homelab:~$ cat about.txt
+<br/>
+### 👨‍💻 // USER_PROFILE_LOADED
+```javascript
+const NettechZak = {
+    class: "HomeLabArchitect",
+    level: 21,
+    guild: "ContentCreators",
+    currentQuest: "Building the Next Web",
+    mission: "Building the future, one packet at a time.",
+    stats: {
+        uptime: "99.999%",
+        packets_routed: "Infinity",
+        storage_used: "42TB"
+    },
+    specialization: [
+        "Networking (VLANs, UniFi, pfSense)",
+        "Virtualization (Proxmox, Docker, K8s)",
+        "Storage (TrueNAS, ZFS)",
+        "Automation (Home Assistant, Ansible)"
+    ],
+    hardware: [
+        "Dell PowerEdge R720/R730",
+        "UniFi Dream Machine Pro",
+        "Raspberry Pi Cluster"
+    ],
+    unlock: function() {
+        return "New Skill Acquired: " + this.specialization[Math.floor(Math.random() * this.specialization.length)];
+    }
+};
+console.log(NettechZak.unlock());
 ```
-**21yo tech enthusiast** exploring homelabs, networking, cybersecurity, photography, and content creation.
-I'm a passionate tech enthusiast who loves **building, breaking, and fixing things** in my homelab. What started as a simple Raspberry Pi project has evolved into a **full-scale homelab** with enterprise-grade networking, virtualization, and automation.
-I share my journey, mistakes, and solutions through videos and blog posts to help others navigate the complex world of **self-hosting and infrastructure**.
-When I'm not tinkering with servers or configuring VLANs, you'll find me exploring **photography**, building custom **mechanical keyboards**, or working on **watercooled PC builds**.
----
-## `$ ls -la ~/skills/`
-<table>
-<tr>
-<td width="50%">
-### 🌐 **Networking**
-```yaml
-- VLANs & Subnetting
-- pfSense / OPNsense
-- UniFi Ecosystem
-- DNS & DHCP
-```
-### 🖥️ **Virtualization**
-```yaml
-- Proxmox VE
-- Docker & Compose
-- Kubernetes
-- LXC Containers
-```
-</td>
-<td width="50%">
-### 💾 **Storage**
-```yaml
-- TrueNAS / ZFS
-- NFS & SMB
-- RAID Configurations
-- Backup Strategies
-```
-### 🤖 **Automation**
-```yaml
-- Home Assistant
-- Ansible
-- Bash Scripting
-- CI/CD Pipelines
-```
-</td>
-</tr>
-</table>
----
-## `$ cat ~/journey/timeline.log`
-<details open>
-<summary><b>🎯 Future Goals</b> <i>(2025+)</i></summary>
-<br>
-Expanding into **cybersecurity content**, building a dedicated security lab with pfSense, Suricata IDS/IPS, and Security Onion. Planning to pursue advanced certifications and contribute more to the **open-source community**.
-</details>
-<details>
-<summary><b>🎥 Content Creator & Community Builder</b> <i>(2024)</i></summary>
-<br>
-Launched my **YouTube channel and blog**, sharing detailed tutorials on homelab setups, networking configurations, and troubleshooting guides. Built a growing community of tech enthusiasts who learn from my successes and failures.
-</details>
-<details>
-<summary><b>🏢 Enterprise-Grade Infrastructure</b> <i>(2023)</i></summary>
-<br>
-Major infrastructure overhaul:
-- Deployed **Dell PowerEdge R720 and R730** servers
-- Implemented a **3-node Proxmox cluster** with Ceph storage
-- Upgraded to **UniFi Dream Machine Pro** with managed switches and APs
-- Designed complex **VLAN architecture** separating IoT, guest, management, and production networks
-**This is when things got serious.**
-</details>
-<details>
-<summary><b>🏠 Self-Hosting Deep Dive</b> <i>(2022)</i></summary>
-<br>
-Went all-in on self-hosting:
-- **Plex** for media streaming
-- **Nextcloud** for personal cloud storage
-- **Home Assistant** for smart home automation
-- **Pi-hole** for network-wide ad blocking
-- **Bitwarden** for password management
-Learned Docker Compose, reverse proxies with **Nginx Proxy Manager**, and SSL certificate management with **Let's Encrypt**.
-</details>
-<details>
-<summary><b>💻 First Homelab Build</b> <i>(2021)</i></summary>
-<br>
-Transformed an old gaming PC into my first dedicated server. Installed **Proxmox VE** and created my first virtual machines. Spent countless nights learning Linux command line and understanding the basics of virtualization.
-**This was the moment I realized I wanted to build something bigger.**
-</details>
-<details>
-<summary><b>🍓 The Raspberry Pi Gateway</b> <i>(2020)</i></summary>
-<br>
-Started with a **Raspberry Pi 4** running Pi-hole and a basic web server. This tiny computer opened my eyes to the world of self-hosting and network administration. Learned about DNS, DHCP, and basic networking concepts.
-**The seed was planted.**
-</details>
-<details>
-<summary><b>🎮 Custom PC Building</b> <i>(2019)</i></summary>
-<br>
-Built my first custom gaming PC with a **custom watercooling loop**. Fell in love with the hardware side of technology - cable management, RGB lighting, and optimizing performance.
-</details>
-<details>
-<summary><b>🌱 The Beginning</b> <i>(2018)</i></summary>
-<br>
-Where it all started: Curiosity about how technology works led me down the rabbit hole. Started tinkering with old computers, learning basic troubleshooting, and discovering the joy of fixing things.
-</details>
----
-## `$ docker ps -a`
+<br/>
+### 🎮 // PLAYER_STATS
 <div align="center">
-### 🏠 **The Homelab**
-[![Homelab](https://img.shields.io/badge/🔧_View_Full_Specs-Homelab_Dashboard-00d9ff?style=for-the-badge)](https://nettechzak.github.io/ZakPT_Website/homelab.html)
-```
-CONTAINER ID   IMAGE              STATUS         PORTS                    NAMES
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-a1b2c3d4e5f6   proxmox:latest     Up 247 days    8006/tcp                 proxmox-cluster
-b2c3d4e5f6g7   unifi:latest       Up 247 days    8443/tcp, 3478/udp       unifi-controller
-c3d4e5f6g7h8   plex:latest        Up 247 days    32400/tcp                plex-media
-d4e5f6g7h8i9   nextcloud:latest   Up 247 days    443/tcp                  nextcloud
-e5f6g7h8i9j0   pihole:latest      Up 247 days    53/tcp, 53/udp, 80/tcp   pihole
-f6g7h8i9j0k1   homeassistant      Up 247 days    8123/tcp                 home-assistant
-```
+  <img src="https://github-readme-stats.vercel.app/api?username=NettechZak&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;text_color=00F7FF&amp;icon_color=ff00cc" height="180" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NettechZak&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;ring=ff00cc&amp;fire=ff00cc&amp;currStreakLabel=00F7FF" height="180" alt="streak graph"  />
 </div>
----
-## `$ git log --graph --oneline`
-```
-* 🎯 Implemented UniFi-style switch modals with interactive port visualization
-* ✨ Added glitch typing effects to homepage for enhanced aesthetics
-* 🔧 Enhanced network topology with clickable nodes and detailed modals
-* 📝 Expanded journey timeline with comprehensive milestones
-* 🎨 Refined loading screen with smooth logo animations
-* 🏠 Built interactive homelab dashboard with real-time monitoring
-* 📸 Launched photography section showcasing creative work
-* 🔐 Started cybersecurity learning journey and lab setup
-```
----
-## `$ neofetch`
+<br/>
+### ⚔️ // THE_ARSENAL
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NettechZak&show_icons=true&theme=transparent&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&bg_color=0d1117" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NettechZak&theme=transparent&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&background=0d1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NettechZak&layout=compact&theme=transparent&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=0d1117" width="48%" />
+  <!-- Networking -->
+  <img src="https://img.shields.io/badge/Ubiquiti-%230559C9.svg?style=for-the-badge&amp;logo=ubiquiti&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/pfsense-%23323330.svg?style=for-the-badge&amp;logo=pfsense&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&amp;logo=cisco&amp;logoColor=black" />
+  <br/>
+  <!-- Virtualization -->
+  <img src="https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&amp;logo=proxmox&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" />
+  <br/>
+  <!-- Development -->
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" />
 </div>
----
-## `$ curl -s https://zakpt.dev/links`
+<br/>
+### 👾 // TOP_LANGUAGES
 <div align="center">
-[![Website](https://img.shields.io/badge/🌐_Website-Visit_My_Site-00d9ff?style=for-the-badge)](https://nettechzak.github.io/ZakPT_Website/)
-[![YouTube](https://img.shields.io/badge/📺_YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
-[![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Discord](https://img.shields.io/badge/💬_Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NettechZak&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;text_color=00F7FF" height="160" alt="languages graph"  />
 </div>
----
+<br/>
 <div align="center">
-```
-┌─[zakpt@github]─[~]
-└──╼ $ echo "Where packets go to die (and be reborn)."
-```
-**⚡ Exploring the digital frontier ⚡**
-<sub>Made with 💙 and countless hours of debugging</sub>
+  <p>
+    <a href="https://nettechzak.github.io/ZakPT_Website/">
+      <img src="https://img.shields.io/badge/VISIT_MY_WEBSITE-00F7FF?style=for-the-badge&amp;logo=firefox&amp;logoColor=black" />
+    </a>
+  </p>
+  <p style="color: #00F7FF; font-family: 'Courier New', Courier, monospace;">
+    "Exploration never stops."
+  </p>
 </div>
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
