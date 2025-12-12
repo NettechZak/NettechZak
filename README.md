@@ -1,3 +1,4 @@
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=40&duration=2000&pause=500&color=00F3FF&center=true&vCenter=true&width=600&lines=INIT_SEQUENCE...%3E_LOADING_ZAKPT_OS;SYSTEM_READY.;WELCOME_OPERATOR." alt="Typing SVG" />
@@ -29,7 +30,8 @@
     <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d;">
       <h3 align="center" style="color: #ff00ff;">// SYSTEM_METRICS</h3>
       <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NettechZak&theme=radical&hide_border=true&background=0D1117&ring=ff00ff&fire=ff00ff&currStreakLabel=00F3FF" height="140" alt="streak graph" />
+        <!-- Removed background override to ensure theme consistency, simplified params -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NettechZak&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="140" alt="streak graph" />
       </div>
     </td>
   </tr>
@@ -44,7 +46,9 @@
       <td>
         <img src="https://img.shields.io/badge/UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white" />
         <img src="https://img.shields.io/badge/pfSense-2C3E50?style=flat-square&logo=pfsense&logoColor=white" />
+        <img src="https://img.shields.io/badge/OPNsense-EF3B24?style=flat-square&logo=opnsense&logoColor=white" />
         <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
       </td>
     </tr>
     <tr>
@@ -53,6 +57,8 @@
         <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/LXC-E8591C?style=flat-square&logo=linux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white" />
       </td>
     </tr>
     <tr>
@@ -60,6 +66,8 @@
       <td>
         <img src="https://img.shields.io/badge/TrueNAS-000000?style=flat-square&logo=truenas&logoColor=white" />
         <img src="https://img.shields.io/badge/ZFS-000000?style=flat-square&logo=zfs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Synology-B3B3B3?style=flat-square&logo=synology&logoColor=white" />
+        <img src="https://img.shields.io/badge/NFS-005696?style=flat-square&logo=linux&logoColor=white" />
       </td>
     </tr>
     <tr>
@@ -68,6 +76,8 @@
         <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
         <img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white" />
         <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
       </td>
     </tr>
   </table>
@@ -75,7 +85,13 @@
 <br/>
 <div align="center">
   <h3 style="color: #ff00ff;">// CONTRIBUTION_LOG</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=NettechZak&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=00F3FF&icon_color=ff00ff&count_private=true&include_all_commits=true" width="100%" />
+  <!-- Switched to GitHub Readme Activity Graph for a better visual representation or simplified stats -->
+  <a href="https://github.com/NettechZak">
+    <img src="https://github-readme-stats.vercel.app/api?username=NettechZak&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=00F3FF&icon_color=ff00ff" alt="NettechZak's GitHub stats" />
+  </a>
+  <br/>
+  <!-- Added Top Langs for extra data density -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NettechZak&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=00F3FF" alt="Top Langs" />
 </div>
 <br/>
 <div align="center">
