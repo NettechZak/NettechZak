@@ -4,23 +4,35 @@
   <br/>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&amp;weight=600&amp;size=35&amp;duration=3000&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=System.init(%22PLAYER_READY%22)%3B;Building+The+Future;One+Packet+At+A+Time;Homelab+Enthusiast;Content+Creator" alt="Typing SVG" /></a>
 </div>
-<br/>
+### 👨‍💻 // USER_PROFILE_LOADED
 ```javascript
 const NettechZak = {
-    role: "HomeLab Architect",
+    class: "HomeLabArchitect",
     level: 21,
-    guild: "Content Creators",
-    daily_driver: ["Dell R720", "UDM Pro", "MacBook Pro"],
-    
-    knowledge_base: {
-        networking: ["VLANs", "UniFi", "pfSense"],
-        virtualization: ["Proxmox", "Docker", "K8s"],
-        storage: ["TrueNAS", "ZFS"],
-        automation: ["Home Assistant", "Ansible"]
+    guild: "ContentCreators",
+    currentQuest: "Building the Next Web",
+    mission: "Building the future, one packet at a time.",
+    stats: {
+        uptime: "99.999%",
+        packets_routed: "Infinity",
+        storage_used: "42TB"
     },
-    
-    mission: "Building the future, one packet at a time."
+    specialization: [
+        "Networking (VLANs, UniFi, pfSense)",
+        "Virtualization (Proxmox, Docker, K8s)",
+        "Storage (TrueNAS, ZFS)",
+        "Automation (Home Assistant, Ansible)"
+    ],
+    hardware: [
+        "Dell PowerEdge R720/R730",
+        "UniFi Dream Machine Pro",
+        "Raspberry Pi Cluster"
+    ],
+    unlock: function() {
+        return "New Skill Acquired: " + this.specialization[Math.floor(Math.random() * this.specialization.length)];
+    }
 };
+console.log(NettechZak.unlock());
 ```
 <br/>
 ### 🎮 // PLAYER_STATS
