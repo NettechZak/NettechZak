@@ -26,14 +26,7 @@
         <a href="https://nettechzak.github.io/ZakPT_Website/homelab.html"><img src="https://img.shields.io/badge/MISSION-HOMELAB-ff00ff?style=for-the-badge&logo=server" height="25"/></a>
         <a href="https://nettechzak.github.io/ZakPT_Website/cybersecurity.html"><img src="https://img.shields.io/badge/MISSION-CYBERSEC-00F3FF?style=for-the-badge&logo=kali-linux" height="25"/></a>
       </p>
-    </td>
-    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d;">
-      <h3 align="center" style="color: #ff00ff;">// SYSTEM_METRICS</h3>
-      <div align="center">
-        <!-- Removed background override to ensure theme consistency, simplified params -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NettechZak&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="140" alt="streak graph" />
-      </div>
-    </td>
+    
   </tr>
 </table>
 <br/>
